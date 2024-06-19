@@ -12,7 +12,7 @@ function Registration()
             <input type="password" id="password" placeholder="confirm password"></input>
             <br></br>
             <input type="checkbox" id="agree" className="agree" value="agree"></input>
-            <label for="agree" className="agree-label">I agree to CAKE.com<a><span>Terms of Use</span></a></label>
+            <label for="agree" className="agree-label">I AGREE to CAKE.com<a><span>Terms of Use</span></a></label>
             <button className="continue">CONTINUE WITH EMAIL</button>
             <p className="divider">OR</p>
             <a className="link" href="#"><button>CONTINUE WITH GOOGLE</button></a>
